@@ -1,4 +1,2 @@
 rules:
-  # 自定义规则始终位于最前
   - DOMAIN-SUFFIX,showhype.ai,DIRECT
-  # ... 其他固定规则 
