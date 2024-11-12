@@ -1,0 +1,7 @@
+mixed-port: 7890
+allow-lan: true
+mode: rule
+log-level: info
+
+rules:
+  - DOMAIN-SUFFIX,showhype.ai,DIRECT
